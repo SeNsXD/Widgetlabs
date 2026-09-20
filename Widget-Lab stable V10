@@ -1,0 +1,46 @@
+# WidgetLab
+
+WidgetLab is a modern Android widget collection designed to make your home screen more useful, customizable, and clean.
+
+## ✨ Features
+
+- 🎧 Earbuds battery monitoring
+- 🔋 Left, Right & Case battery levels
+- 🔊 ANC, Normal & Clarity controls
+- 🎧 Multiple earbuds support
+- 🧩 Multiple earbuds widget layouts
+- 🎵 Universal media widget
+- ⏮️ Previous, Play/Pause & Next controls
+- 🖼️ Album artwork, song & artist information
+- 🌦️ Weather widget
+- 🎨 Android dynamic colors
+- 🖌️ Custom widget colors
+- 🌑 Adjustable background opacity
+- 🔄 Automatic & manual refresh
+- 📱 Modern and minimal Android UI
+- 🌙 Dark-theme friendly design
+
+## 🎧 Supported Earbuds
+
+- Realme Buds T310
+- OPPO Enco series support
+
+## 📦 Widgets
+
+WidgetLab currently includes:
+
+- Earbuds — Standard
+- Earbuds — Compact
+- Earbuds — Visual
+- Universal Media
+- Weather
+
+## 🚀 Status
+
+This is the stable version of WidgetLab. Core earbuds, media, weather, and customization features are ready for everyday use.
+
+More widgets, supported devices, customization options, and improvements are planned for future releases.
+
+## 👨‍💻 Developer
+
+Built by **Rishabh Kumar (RIXH4BH)**.
