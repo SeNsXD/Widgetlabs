@@ -13,8 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Developed%20by-xdNOT--Labs-9B87F5?style=flat-square" />
+<img width="2048" height="1111" alt="image" src="https://github.com/user-attachments/assets/f2a54a19-eac5-4346-999d-d5f4aaba04e3" />
+<img width="2048" height="961" alt="image" src="https://github.com/user-attachments/assets/c06544cf-ef50-4d8b-a2e7-27dbfac8c478" />
+
+
 </p>
 
 ---
