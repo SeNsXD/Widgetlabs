@@ -1,5 +1,5 @@
- <p align="center">
-  <img src="docs/assets/widget-labs-icon.png" width="150" alt="Widget Labs Logo" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9da18cd7-74a3-4e85-8c93-007e5e81c58a" />
+
 </p>
 
 <h1 align="center">Widget Labs</h1>
@@ -36,14 +36,6 @@ No unnecessary complexity. Just useful widgets with thoughtful design.
 - **Glanceable Information** — Get what you need without constantly opening applications.
 - **Minimal Design** — Clean interfaces with a focus on usability and simplicity.
 - **Customization** — Make your widget experience feel more personal.
-
-## Screenshots
-
-<p align="center">
-  <img src="docs/assets/screenshot-1.png" width="30%" alt="Widget Labs Screenshot 1" />
-  <img src="docs/assets/screenshot-2.png" width="30%" alt="Widget Labs Screenshot 2" />
-  <img src="docs/assets/screenshot-3.png" width="30%" alt="Widget Labs Screenshot 3" />
-</p>
 
 ## What's Next?
 
