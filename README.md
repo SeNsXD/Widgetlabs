@@ -7,12 +7,13 @@
 <h3 align="center">Make your home screen more useful.</h3>
 
 <p align="center">
-  Thoughtfully designed Android widgets that bring useful information and everyday actions right to your home screen.
+  <img src="docs/assets/widget-labs-icon.png" width="160" alt="Widget Labs Logo" />
 </p>
 
+<h1 align="center">Widget Labs</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Developed%20by-xdNOT--Labs-8B5CF6?style=flat-square" />
+  Make your home screen more useful.
 </p>
 
 ---
