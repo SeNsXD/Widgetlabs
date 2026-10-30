@@ -1,19 +1,20 @@
-# Widget Labs
-
-<p align="center">
-  <img src="docs/assets/widget-labs-banner.png" alt="Widget Labs Banner" width="100%" />
-</p>
-
-<h3 align="center">Make your home screen more useful.</h3>
-
-<p align="center">
-  <img src="docs/assets/widget-labs-icon.png" width="160" alt="Widget Labs Logo" />
+ <p align="center">
+  <img src="docs/assets/widget-labs-icon.png" width="150" alt="Widget Labs Logo" />
 </p>
 
 <h1 align="center">Widget Labs</h1>
 
 <p align="center">
-  Make your home screen more useful.
+  <strong>Make your home screen more useful.</strong>
+</p>
+
+<p align="center">
+  Thoughtfully designed Android widgets that bring useful information and everyday actions right to your home screen.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Developed%20by-xdNOT--Labs-9B87F5?style=flat-square" />
 </p>
 
 ---
@@ -37,9 +38,9 @@ No unnecessary complexity. Just useful widgets with thoughtful design.
 ## Screenshots
 
 <p align="center">
-  <img src="docs/assets/screenshot-1.png" width="30%" />
-  <img src="docs/assets/screenshot-2.png" width="30%" />
-  <img src="docs/assets/screenshot-3.png" width="30%" />
+  <img src="docs/assets/screenshot-1.png" width="30%" alt="Widget Labs Screenshot 1" />
+  <img src="docs/assets/screenshot-2.png" width="30%" alt="Widget Labs Screenshot 2" />
+  <img src="docs/assets/screenshot-3.png" width="30%" alt="Widget Labs Screenshot 3" />
 </p>
 
 ## What's Next?
@@ -47,10 +48,10 @@ No unnecessary complexity. Just useful widgets with thoughtful design.
 Widget Labs is continuously evolving, with future improvements focused on:
 
 - More useful widget experiences.
-- Enhanced customization.
+- Enhanced customization options.
 - Improved layouts and responsiveness.
-- Performance and reliability.
-- A consistent design language.
+- Performance and reliability improvements.
+- A consistent design language across widgets.
 
 ## Developed by xdNOT-Labs
 
