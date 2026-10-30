@@ -7,100 +7,53 @@
 <h3 align="center">Make your home screen more useful.</h3>
 
 <p align="center">
-  A collection of thoughtfully designed Android widgets built to make everyday information and actions more accessible.
+  Thoughtfully designed Android widgets that bring useful information and everyday actions right to your home screen.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Developed%20by-xdNOT--Labs-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square" />
 </p>
 
 ---
 
-## Overview
+## About
 
-Widget Labs is an Android widget project focused on making your home screen more functional, accessible, and visually appealing.
+Widget Labs is designed to make your Android home screen more functional, organized, and personal.
 
-Instead of opening multiple applications to access everyday information, Widget Labs brings useful experiences directly to your home screen.
+Access the information you need, keep everyday essentials within reach, and make your home screen work better for you.
 
-Built with simplicity in mind, every widget aims to deliver useful information without unnecessary complexity.
+No unnecessary complexity. Just useful widgets with thoughtful design.
 
 ## Features
 
-- **Home Screen Widgets** — Access useful information directly from your Android home screen.
-- **Glanceable Information** — Get essential information without opening the application.
-- **Thoughtful Design** — Clean interfaces designed to feel at home on modern Android devices.
-- **Easy Accessibility** — Keep frequently used information and actions within reach.
-
-*More widget experiences and improvements are planned.*
+- **Beautiful Widgets** — Carefully designed widgets that complement your home screen.
+- **Quick Access** — Keep important information and everyday actions within reach.
+- **Glanceable Information** — Get what you need without constantly opening applications.
+- **Minimal Design** — Clean interfaces with a focus on usability and simplicity.
+- **Customization** — Make your widget experience feel more personal.
 
 ## Screenshots
 
 <p align="center">
-  <!-- Add actual application screenshots here -->
   <img src="docs/assets/screenshot-1.png" width="30%" />
   <img src="docs/assets/screenshot-2.png" width="30%" />
   <img src="docs/assets/screenshot-3.png" width="30%" />
 </p>
 
-## Installation
+## What's Next?
 
-1. Visit the [Releases](https://github.com/SeNsXD/Widget-Labs-source-files/releases) page.
-2. Download the latest available APK.
-3. Install the APK on your Android device.
-4. Open Widget Labs and explore the available widgets.
-5. Add your preferred widgets to your home screen.
-
-*Installation instructions may change as the project evolves.*
-
-## Development
-
-Want to explore the project locally?
-
-### Requirements
-
-- Android Studio
-- Android SDK
-- JDK compatible with the project's Gradle configuration
-
-### Clone the repository
-
-```bash
-git clone https://github.com/SeNsXD/Widget-Labs-source-files.git
-```
-
-Open the project in Android Studio, allow Gradle to sync, and run the application on an Android device or emulator.
-
-### Build
-
-To build a debug APK:
-
-```bash
-./gradlew assembleDebug
-```
-
-To build a release APK:
-
-```bash
-./gradlew assembleRelease
-```
-
-## Roadmap
-
-Widget Labs is continuously evolving. Future improvements will focus on:
+Widget Labs is continuously evolving, with future improvements focused on:
 
 - More useful widget experiences.
-- Better customization options.
-- Improved widget layouts and responsiveness.
-- Performance and reliability improvements.
-- A consistent design language across widgets.
+- Enhanced customization.
+- Improved layouts and responsiveness.
+- Performance and reliability.
+- A consistent design language.
 
-## About xdNOT-Labs
+## Developed by xdNOT-Labs
 
-Widget Labs is developed by **xdNOT-Labs**.
-
-We build software around ideas that make everyday digital experiences better.
+Widget Labs is proudly developed by **xdNOT-Labs**, an independent software development brand focused on building thoughtful software and turning ideas into reality.
 
 <p align="center">
   <strong>xdNOT-Labs — Ideas into software.</strong>
